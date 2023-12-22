@@ -10545,3 +10545,9 @@ AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
                        n_estimators=100, n_jobs=-1, oob_score=False,
                        random_state=8673, verbose=0, warm_start=False)
 2023-12-21 16:21:35,199:INFO:compare_models() successfully completed......................................
+2023-12-21 20:01:31,796:WARNING:C:\Users\huang\AppData\Local\Temp\ipykernel_15936\1856156151.py:1: FutureWarning: In a future version of pandas all arguments of concat except for the argument 'objs' will be keyword-only.
+  y_pred_lgbm_proba_df = pd.concat(pd.DataFrame(test_id, columns=['id']),pd.DataFrame(y_pred_lgbm_proba, columns=['Status_C', 'Status_CL', 'Status_D']))
+
+2023-12-21 20:03:14,800:WARNING:C:\Users\huang\AppData\Local\Temp\ipykernel_15936\523818289.py:1: FutureWarning: In a future version of pandas all arguments of concat except for the argument 'objs' will be keyword-only.
+  y_pred_lgbm_proba_df = pd.concat(pd.DataFrame(test_id, columns=['id']), pd.DataFrame(y_pred_lgbm_proba, columns=['Status_C', 'Status_CL', 'Status_D']))
+
