@@ -34,8 +34,9 @@ The dataset used for this analysis can be found on Kaggle: [Iowa Liquor Sales](h
 - Analyzed sales and profits.
 - Analyzed sales by location.
 
-## Visualizations
-<iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNTYyMGE2NjEtZjljMy00YTcwLWI2NDktM2I2MWM1YTFkMGQ4IiwidCI6ImI2MzhkNGMwLTBiOTItNDE0Ni05MzRkLWE0NmMwMGJmMGJlZSJ9" frameborder="0" allowFullScreen="true"></iframe>
+## Power BI Dashboard
+For a more interactive and detailed view of the data analysis, check out the Power BI Dashboard:
+[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTYyMGE2NjEtZjljMy00YTcwLWI2NDktM2I2MWM1YTFkMGQ4IiwidCI6ImI2MzhkNGMwLTBiOTItNDE0Ni05MzRkLWE0NmMwMGJmMGJlZSJ9)
 
 ## Future Work
 This project is conducted based on personal interest to find the best-selling liquor and guide my purchase decisions, no further work follows.
