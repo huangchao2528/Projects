@@ -32,7 +32,7 @@ I'm always open to new ideas and collaborations. If you're interested in contrib
 For any queries or discussions about these projects, please contact me at <huangchao2528@gmail.com>.
 
 ## License
-All projects in this repository are open-source, licensed under the [MIT License](LICENSE). **Except for ==HInsurance - LTV Prediction==**
+All projects in this repository are open-source, licensed under the [MIT License](LICENSE). **Except for HInsurance - LTV Prediction**
 
 ## Author
 Chao (Eric) Huang
