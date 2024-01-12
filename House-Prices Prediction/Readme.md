@@ -1,5 +1,4 @@
-# House Prices - Advanced Regression Techniques
-
+# House Prices Prediction
 ## Overview
 This repository showcases my work for the Kaggle competition, "House Prices - Advanced Regression Techniques". The goal is to predict the sales prices of houses using a variety of explanatory variables that describe different aspects of residential homes.
 
