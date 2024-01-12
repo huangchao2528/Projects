@@ -55,3 +55,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 Chao(Eric) Huang
+
+## Contact
+For any queries or discussions regarding this project, feel free to contact me at <huangchao2528@gmail.com>.

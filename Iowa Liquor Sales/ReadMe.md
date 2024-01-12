@@ -41,5 +41,11 @@ For a more interactive and detailed view of the data analysis, check out the Pow
 ## Future Work
 This project is conducted based on personal interest to find the best-selling liquor and guide my purchase decisions, no further work follows.
 
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Author
+Chao(Eric) Huang
+
 ## Contact
 For any queries or discussions regarding this project, feel free to contact me at <huangchao2528@gmail.com>.
