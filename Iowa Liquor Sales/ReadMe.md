@@ -35,7 +35,7 @@ The dataset used for this analysis can be found on Kaggle: [Iowa Liquor Sales](h
 - Analyzed sales by location.
 
 ## Power BI Dashboard
-![PBI Dashboard](Iowa Liquor Sales Analysis - PBI Dashboard.png)
+![PBI Dashboard](https://github.com/huangchao2528/Projects/blob/ece09c82bdf77ef2435a5b43664fb46d7c63a4eb/Iowa%20Liquor%20Sales/Iowa%20Liquor%20Sales%20Analysis%20-%20PBI%20Dashboard.png)
 For a more interactive and detailed view of the data analysis, check out the Power BI Dashboard:
 [View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTYyMGE2NjEtZjljMy00YTcwLWI2NDktM2I2MWM1YTFkMGQ4IiwidCI6ImI2MzhkNGMwLTBiOTItNDE0Ni05MzRkLWE0NmMwMGJmMGJlZSJ9)
 
