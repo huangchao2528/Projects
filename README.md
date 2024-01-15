@@ -11,7 +11,7 @@ Predicting the Lifetime Value (LTV) of customers for an insurance company using 
 ### [Iowa Liquor Sales Analysis](https://github.com/huangchao2528/Projects/tree/c5250ebde88246644a6afaae520540ad79139b97/Iowa%20Liquor%20Sales)
 An analysis of liquor sales in Iowa using Python and Power BI. This project focuses on deriving trends and patterns from sales data to guide personal purchase decisions.
 
-### [House Prices - Advanced Regression Techniques](https://github.com/huangchao2528/Projects/tree/c5250ebde88246644a6afaae520540ad79139b97/House-Prices%20Prediction)
+### [House Prices Prediction](https://github.com/huangchao2528/Projects/tree/c5250ebde88246644a6afaae520540ad79139b97/House-Prices%20Prediction)
 A Kaggle competition project aimed at predicting the sales prices of houses. The project includes data preprocessing, exploratory data analysis (EDA), and building regression models like Linear Regression, Random Forest, XGBoost, and LightGBM.
 
 ### [Multi-Class Prediction of Cirrhosis Outcomes](https://github.com/huangchao2528/Projects/tree/c5250ebde88246644a6afaae520540ad79139b97/Multi-Class-Prediction-of-Cirrhosis-Outcomes)
