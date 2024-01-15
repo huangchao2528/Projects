@@ -5,7 +5,7 @@ Welcome to my data science and machine learning portfolio! This repository is a 
 
 ## Projects Overview
 
-### [XInsurance - LTV Prediction](https://github.com/huangchao2528/Projects/tree/c5250ebde88246644a6afaae520540ad79139b97/HInsurance%20-%20LTV%20Prediction)
+### [XInsurance - LTV Prediction](https://github.com/huangchao2528/Projects/tree/8d7c7b190114b833837ffd3623c20d497290f333/XInsurance%20-%20LTV%20Prediction)
 Predicting the Lifetime Value (LTV) of customers for an insurance company using data science methodologies. This project involves data importation, exploration, cleaning, and predictive modeling.
 
 ### [Iowa Liquor Sales Analysis](https://github.com/huangchao2528/Projects/tree/c5250ebde88246644a6afaae520540ad79139b97/Iowa%20Liquor%20Sales)
