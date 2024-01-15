@@ -1,12 +1,12 @@
-# HInsurance - LTV Prediction
+# XInsurance - LTV Prediction
 
 **This is NOT an open source dataset.**
 
 ## Overview
-This Jupyter Notebook is dedicated to predicting the Lifetime Value (LTV) of customers for HInsurance. It encompasses a full spectrum of data science workflows, including data importation, exploration, cleaning, and predictive modeling, with a focus on the insurance domain.
+This Jupyter Notebook is dedicated to predicting the Lifetime Value (LTV) of customers for XInsurance. It encompasses a full spectrum of data science workflows, including data importation, exploration, cleaning, and predictive modeling, with a focus on the insurance domain.
 
 ## Contents
-- `HInsurance - LTV Prediction.ipynb`: The Jupyter Notebook containing the complete analysis and model-building process.
+- `XInsurance - LTV Prediction.ipynb`: The Jupyter Notebook containing the complete analysis and model-building process.
 
 ## Workflow
 
