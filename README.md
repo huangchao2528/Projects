@@ -5,20 +5,23 @@ Welcome to my data science and machine learning portfolio! This repository is a 
 
 ## Projects Overview
 
-### [XInsurance - LTV Prediction](https://github.com/huangchao2528/Projects/tree/8d7c7b190114b833837ffd3623c20d497290f333/XInsurance%20-%20LTV%20Prediction)
+### [Monitor Reviews Analysis](https://github.com/huangchao2528/Projects/tree/main/Monitor%20Reviews%20Analysis)
+A Python-based project for scraping and analyzing customer reviews of monitors on Amazon. This project helped me choose the best monitor within my budget by analyzing real user feedback.
+
+### [XInsurance - LTV Prediction](https://github.com/huangchao2528/Projects/tree/main/XInsurance%20-%20LTV%20Prediction)
 Predicting the Lifetime Value (LTV) of customers for an insurance company using data science methodologies. This project involves data importation, exploration, cleaning, and predictive modeling.
 
-### [Iowa Liquor Sales Analysis](https://github.com/huangchao2528/Projects/tree/c5250ebde88246644a6afaae520540ad79139b97/Iowa%20Liquor%20Sales)
+### [Iowa Liquor Sales Analysis](https://github.com/huangchao2528/Projects/tree/main/Iowa%20Liquor%20Sales)
 An analysis of liquor sales in Iowa using Python and Power BI. This project focuses on deriving trends and patterns from sales data to guide personal purchase decisions.
 
-### [House Prices Prediction](https://github.com/huangchao2528/Projects/tree/c5250ebde88246644a6afaae520540ad79139b97/House-Prices%20Prediction)
+### [House Prices Prediction](https://github.com/huangchao2528/Projects/tree/main/House-Prices%20Prediction)
 A Kaggle competition project aimed at predicting the sales prices of houses. The project includes data preprocessing, exploratory data analysis (EDA), and building regression models like Linear Regression, Random Forest, XGBoost, and LightGBM.
 
-### [Multi-Class Prediction of Cirrhosis Outcomes](https://github.com/huangchao2528/Projects/tree/c5250ebde88246644a6afaae520540ad79139b97/Multi-Class-Prediction-of-Cirrhosis-Outcomes)
+### [Multi-Class Prediction of Cirrhosis Outcomes](https://github.com/huangchao2528/Projects/tree/main/Multi-Class-Prediction-of-Cirrhosis-Outcomes)
 My work for the Kaggle competition titled "Multi-Class Prediction of Cirrhosis Outcomes," where I developed machine learning models to predict various outcomes in patients with cirrhosis.
 
 ## Technologies Used
-- Python (Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, Matplotlib, Seaborn)
+- Python (Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, Matplotlib, Seaborn, Selenium, TextBlob)
 - Power BI
 - Machine Learning (pycaret, LogisticRegression, RandomizedSearchCV, LinearRegression, RandomForestRegressor)
 
@@ -32,7 +35,7 @@ I'm always open to new ideas and collaborations. If you're interested in contrib
 For any queries or discussions about these projects, please contact me at <huangchao2528@gmail.com>.
 
 ## License
-All projects in this repository are open-source, licensed under the [MIT License](LICENSE). **Except for HInsurance - LTV Prediction**
+All projects in this repository are open-source, licensed under the [MIT License](LICENSE). **Except for XInsurance - LTV Prediction**
 
 ## Author
 Chao (Eric) Huang
